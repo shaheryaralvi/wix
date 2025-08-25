@@ -96,7 +96,7 @@ const Homepage = () => {
       <div id='#aboutus'>
 
       </div>
-      <ReusableSection  data={{
+      <ReusableSection id="#about"  data={{
         imageUrl1: imgurls[1],
         altText1: "Image 1",  
         imageUrl2: imgurls[0],
