@@ -1,0 +1,13 @@
+/* src/index.css or src/App.css */
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities'; */
+@import "tailwindcss";
+
+@theme {
+  --color-graycolor: #f1ecea;
+  --color-btnnav: #3e2b24;
+  --color-bgbtn: #c4b693;
+  --color-bgdiv: #f1ecea;
+  --color-bgsection: #c4b693;
+}
