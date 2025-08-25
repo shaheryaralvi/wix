@@ -24,7 +24,7 @@ const Navbar = () => {
               <Link to="/" className="  rounded-md hover:underline">
                 About
               </Link>
-              <Link to="/#about" className=" hover:underline  rounded-md  ">
+              <Link to="#about" className=" hover:underline  rounded-md  ">
                 The Building
               </Link>
               <Link to="/contact" className=" hover:underline  rounded-md ">
