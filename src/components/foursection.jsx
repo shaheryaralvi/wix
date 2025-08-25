@@ -114,6 +114,7 @@ const FourSections = (props) => {
                     </button>
                     <button  className={secondbuttonStyle()}>
                         {buttonText2 || "demo"}
+                        
                     </button>
                 </div>
             </div>

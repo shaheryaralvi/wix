@@ -134,7 +134,7 @@ const Homepage = () => {
           buttonText1: "Book a tour",
           buttonText2: "View floor plan",
           title: "Sky Apt",
-          
+          btnLink:"",
           description: "I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you."
         }
         
